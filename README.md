@@ -1,3 +1,6 @@
+# Hi 👋
+This repo is part of my coursework for Code: You. It's a basic C# console application where you get prompted for some stuff and then we return a list of objects with all those properties in them!
+
 # Knowledge Check 2 for Software Course 1
 
 1. Create a new Repository by clicking the green ["Use this Template"](https://github.com/CodeLouisville/sdc1-knowledge-check-2/generate) button and setup a new repository in your account.
